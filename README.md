@@ -1,6 +1,6 @@
 # May-Jobathon ( Credit Card Lead Predoction)
 
- This is a compition hosted by Analytics Vidhya.
+ This compition hosted by Analytics Vidhya.
 I used Categorical feature and used it for creating new features. 
 My first new features is percentage of lead in their individual cateogy.
 Second feature is overall percentage of lead towards the lead.
