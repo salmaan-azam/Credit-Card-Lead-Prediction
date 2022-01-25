@@ -1,4 +1,4 @@
-# May-Jobathon ( Credit Card Lead Predoction)
+# May-Jobathon ( Credit Card Lead Prediction)
 
  This compition hosted by Analytics Vidhya.
 I used Categorical feature and used it for creating new features. 
